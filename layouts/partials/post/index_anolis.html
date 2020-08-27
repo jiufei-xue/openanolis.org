@@ -1,0 +1,69 @@
+{{ $langData := index .Site.Data .Site.Language.Lang }}
+{{ $data := $langData.home }}
+<div class="anolis">
+    <div class="anolis-content">
+        <!-- openGauss是一款开源关系型数据库管理系统，采用木兰宽松许可证v2发行。openGauss内核源自PostgreSQL，深度融合华为在数据库领域多年的经验，结合企业级场景需求，持续构建竞争力特性。同时openGauss也是一个开源的数据库平台，鼓励社区贡献、合作。 -->
+    </div>
+    <ul>
+        <li>
+            <div>
+                <img src="{{ (resources.Get "img/avatar/dw.png").RelPermalink }}" >
+            </div>
+            <h4><a href='https://github.com/alibaba/dragonwell8'>Alibaba Dragonwell</a></h4>
+            <p>{{ $data.dragonwell.title }}</p>
+            <div style="display:flex;align-items: center;justify-content: space-between;width: 140px;color:#999;font-size: 14px;height: 16px;line-height: 16px;;">
+                <img  style="width:16px;" src="{{ (resources.Get "img/icon/eye.svg").RelPermalink }}" />
+                <span>147</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/star.svg").RelPermalink }}" />
+                <span>2.7k</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/branch.svg").RelPermalink }}" />
+                <span>336</span>
+            </div>
+        </li>
+        <li>
+            <div>
+                <img src="{{ (resources.Get "img/avatar/inc.png").RelPermalink }}" >
+            </div>
+            <h4><a href='https://github.com/alibaba/inclavare-containers'>Inclavare Containers</a></h4>
+            <p>{{ $data.inclavare.title }}</p>
+            <div style="display:flex;align-items: center;justify-content: space-between;width: 140px;color:#999;font-size: 14px;height: 16px;line-height: 16px;;">
+                <img  style="width:16px;" src="{{ (resources.Get "img/icon/eye.svg").RelPermalink }}" />
+                <span>12</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/star.svg").RelPermalink }}" />
+                <span>105</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/branch.svg").RelPermalink }}" />
+                <span>15</span>
+            </div>
+        </li>
+        <li>
+            <div>
+                <img src="{{ (resources.Get "img/avatar/diag.png").RelPermalink }}" >
+            </div>
+            <h4><a href='https://github.com/alibaba/diagnose-tools'>Diagnose-tools</a></h4>
+            <p>{{ $data.diagnose.title }}</p>
+            <div style="display:flex;align-items: center;justify-content: space-between;width: 140px;color:#999;font-size: 14px;height: 16px;line-height: 16px;;">
+                <img  style="width:16px;" src="{{ (resources.Get "img/icon/eye.svg").RelPermalink }}" />
+                <span>16</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/star.svg").RelPermalink }}" />
+                <span>93</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/branch.svg").RelPermalink }}" />
+                <span>51</span>
+            </div>
+        </li>
+        <li>
+            <div>
+                <img src="{{ (resources.Get "img/avatar/kernel.png").RelPermalink }}" >
+            </div>
+            <h4><a href='https://github.com/alibaba/cloud-kernel'>Cloud Kernel</a></h4>
+            <p>{{ $data.kernel.title }}</p>
+            <div style="display:flex;align-items: center;justify-content: space-between;width: 140px;color:#999;font-size: 14px;height: 16px;line-height: 16px;;">
+                <img  style="width:16px;" src="{{ (resources.Get "img/icon/eye.svg").RelPermalink }}" />
+                <span>55</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/star.svg").RelPermalink }}" />
+                <span>256</span>
+                <img  style="width:16px" src="{{ (resources.Get "img/icon/branch.svg").RelPermalink }}" />
+                <span>61</span>
+            </div>
+        </li>
+    </ul>
+</div>

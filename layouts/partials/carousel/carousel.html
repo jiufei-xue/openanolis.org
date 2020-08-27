@@ -1,0 +1,93 @@
+<div class="ss-carousel-container" id="carousel">
+
+    {{ $langData := index .Site.Data .Site.Language.Lang }}
+    {{ $data := $langData.home }}
+
+    <!-- 轮播区域 -->
+    <div id="container" class="ss-carousel-btn-group">
+        <div onclick="handle(this,0)" class="ss-carousel-btn-active"></div>
+        <div onclick="handle(this,1)" class="ss-carousel-btn"></div>
+        <div onclick="handle(this,2)" class="ss-carousel-btn"></div>
+    </div>
+    <div id="warp" style="position: absolute;width: 100%;">
+        <div class="ss-carousel-page">
+            <img class="ss-carousel-img" style="position: absolute; z-index: -1;"
+                src="{{ (resources.Get "img/carousel/img4.jpg").RelPermalink }}">
+            <div class="slogan">
+                <div class="home-container" style="margin-top:0;">
+                    <h1 class="slogan-title">{{ $data.slogan_1.title }}</h1>
+                    <p class="slogan-description">
+                        {{ $data.slogan_1.description }}
+                    </p>
+
+                    <div class="button-groups">
+                        <a class="home-button -shadow"
+                            href="{{ $data.slogan.quick_start_link }}">{{ $data.slogan_1.quick_start_text }}</a>
+                        <a class="home-button -outline" href="{{ $data.slogan.github_link }}">GitHub</a>
+                    </div>
+                </div>
+            </div>
+            <!-- 未定内容，暂时这样 -->
+            <!-- <div style="position: absolute;top:2%;left:5%">
+                <h2>推广文案</h2>
+                <h3>文案详情内容</h3>
+            </div>
+
+            <img class="ss-carousel-img" src="{{ (resources.Get "img/carousel/img1.jpg").RelPermalink }}"> -->
+        </div>
+        <div class="ss-carousel-page">
+            <img class="ss-carousel-img" src="{{ (resources.Get "img/carousel/img2.png").RelPermalink }}">
+        </div>
+        <div class="ss-carousel-page">
+            <img class="ss-carousel-img" src="{{ (resources.Get "img/carousel/img3.png").RelPermalink }}">
+        </div>
+    </div>
+</div>
+<script>
+    const carousel = document.getElementById('carousel')
+    const warp = document.getElementById('warp')
+    const container = document.getElementById('container')
+    const btn = container.getElementsByTagName('div')
+    const lastChild = warp.getElementsByTagName('div')[0].cloneNode(true)
+    const len = btn.length
+    warp.appendChild(lastChild)
+    var index = 0
+    function autoPlay() {
+        ++index
+        for (let i = 0; i < len; i++) {
+            if (i != index) {
+                btn[i].className = 'ss-carousel-btn'
+            }
+        }
+        if (index >= len) {
+            btn[0].className = 'ss-carousel-btn-active'
+            warp.setAttribute('style', `transform:translateY(-${100 * index / (len + 1)}%);transition-duration: 1s;transition-timing-function: ease-in-out;`)
+            var reset = setTimeout(function () {
+                index = 0
+                warp.setAttribute('style', `transform:translateY(-${100 * index / (len + 1)}%);`)
+                clearTimeout(reset)
+            }, 1000)
+            return
+        } else {
+            btn[index].className = 'ss-carousel-btn-active'
+        }
+        warp.setAttribute('style', `transform:translateY(-${100 * index / (len + 1)}%);transition-duration: 1s;transition-timing-function: ease-in-out;`)
+    }
+    var timer = setInterval(autoPlay, 4000)
+    carousel.onmouseover = function () {
+        clearInterval(timer);
+    }
+    carousel.onmouseout = function () {
+        timer = setInterval(autoPlay, 4000);
+    }
+    function handle(el, n) {
+        warp.setAttribute('style', `transform:translateY(-${100 * n / (len + 1)}%)`)
+        for (let i = 0; i < len; i++) {
+            if (i != n) {
+                btn[i].className = 'ss-carousel-btn'
+            }
+        }
+        el.className = 'ss-carousel-btn-active'
+        index = n
+    }
+</script>

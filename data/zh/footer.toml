@@ -1,0 +1,51 @@
+# Links in footer
+
+[[links]]
+	category = "资源"
+	link_arr = [
+		["Github", 'https://github.com/openanolis'],
+		["Gitee", 'https://gitee.com/openanolis/'],
+	]
+
+[[links]]
+	category = "社交媒体"
+	link_arr = [
+		["知乎专栏", 'https://zhuanlan.zhihu.com/sofastack'],
+		["新浪微博", 'https://weibo.com/sofastack'],
+		["Twitter", "https://twitter.com/sofastack_io"]
+	]
+
+[[links]]
+	category = "参与进来"
+	link_arr = [
+		["反馈", 'https://github.com/sofastack/sofastack.tech/issues/new'],
+		["社区","/community/main/"],
+		["Wiki","https://github.com/sofastack/sofastack.tech/wiki"],
+		["Email","mailto:sofa@alipay.cloud.com"],
+		["加入我们","/hr/"]
+	]
+
+[[links]]
+	category = "相关说明"
+	link_arr = [
+		["品牌", '/brand/'],
+		["法律声明","/legal/"],
+		["隐私政策","/privacy/"],
+	]
+
+# qrcode
+[[qrcode]]
+	img = "img/qrcode/wechat.jpg"
+	description = "openAnolis微信公众号"
+
+# [[qrcode]]
+# 	 img = "img/qrcode/cloud_dingtalk.png"
+#  	 description = "Alibaba Cloud Linux 钉钉群"
+
+# [[qrcode]]
+# 	 img = "img/qrcode/inclare_dingtalk.jpg"
+# 	 description = "Inclavare Containers 钉钉群"
+
+# [[qrcode]]
+#	 img = "img/qrcode/dragonwell.png"
+# 	 description = "Dragonwell 钉钉群"

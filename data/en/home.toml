@@ -1,0 +1,90 @@
+[slogan_1]
+	title = "Alibaba Cloud Linux Community"
+	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	quick_start_text = "Quick Start"
+	quick_start_link = "/en/guides/sofastack-quick-start"
+	github_link = "https://github.com/sofastack"
+
+[slogan_2]
+	title = "Alibaba Cloud Linux Community"
+	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	quick_start_text = "Quick Start"
+	quick_start_link = "/en/guides/sofastack-quick-start"
+	github_link = "https://github.com/sofastack"
+
+[slogan_3]
+	title = "Alibaba Cloud Linux Community"
+	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	quick_start_text = "Quick Start"
+	quick_start_link = "/en/guides/sofastack-quick-start"
+	github_link = "https://github.com/sofastack"
+
+[slogan_4]
+	title = "Alibaba Cloud Linux Community"
+	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	quick_start_text = "Quick Start"
+	quick_start_link = "/en/guides/sofastack-quick-start"
+	github_link = "https://github.com/sofastack"
+
+[[feature]]
+	title = "Build for Cloud"
+	description = "Linux Distribution for Cloud"
+	img = "img/home/buildforcloud.svg"
+[[feature]]
+	title = "Cloud Native System"
+	description = "Full Stack Open Source Ecosystem"
+	img = "img/home/system.svg"
+[[feature]]
+	title = "Open and Innovation"
+	description = "Open and Innovation Platform"
+	img = "img/home/open.svg"
+
+
+[[charpter_description]]
+	title = "Microservice System"
+	description = "SOFAStack contains multiple components for building microservice system, including development framework, RPC framework, service registry, distributed link tracking, metrics monitoring, distributed transaction framework, service governance platform and other components. In combination with outstanding open-source products in community, you can quickly build a complete microservice system."
+	img = "img/home/cd-microservice-system.png"
+	img_width = "530px"
+
+
+[cloud_native]
+	title = "Cloud Native Architecture"
+	img = "img/home/cd-cloud-native-architecture.png"
+	img_width = "530px"
+
+
+[subscription]
+	title = "Interested in receiving the latest SOFA news?"
+	button = "Subscribe"
+
+[more]
+	title = "More"
+
+[hot_projects]
+	title = "Recommending Projects"
+
+[hot_communities]
+	title = "Community Dynamics"
+
+[hot_blogs] 
+	title = "Selected Blogs"
+
+[hot_activities]
+	title = "Hot Activities"
+
+[partners]
+	title = "Partners"
+
+[about]
+	title = "About openAnolis"
+	description = "test"
+
+# index projects slogan
+[dragonwell]
+	title = "Alibaba Dragonwell, as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba"
+[inclavare]
+	title = "Inclavare Containers is a set of tools for running trusted applications in containers with the hardware-assisted enclave technology"
+[diagnose]
+	title = "Diagnose-tools - a systematic diagnostic tool"
+[kernel]
+	title = "Cloud Kernel - an open-source Linux kernel originated by Alibaba Operating System Team"

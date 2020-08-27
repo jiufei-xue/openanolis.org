@@ -1,0 +1,32 @@
+---
+title: "跟踪诊断技术SIG"
+description: "跟踪诊断技术是操作系统中不可或缺的话题，在阿里云操作系统开源实践中，既有基于 eBPF 技术、bcc 工具的新型内核诊断案例，又有基于内核统计接口的各内核子系统 SLI / Tracing 框架，更有万众瞩目的，在阿里内部“双十一”中大放异彩的 Ali-Diagnose。这些都将在跟踪诊断技术兴趣组中一一呈现。"
+level: "main"
+weight: 12
+icon: "/img/icons/跟踪.png"
+sidebar:
+  - title: "Alibaba Cloud Linux介绍"
+    link: "overview"
+  - title: "云栖大会"
+    sub:
+    - title: "开源价值"
+      link: "open-source-meaning"
+    - title: "Cloud Linux OS"
+      link: "cloud-linux-os"
+    - title: "开源产品"
+      sub:
+        - title: "Web tengine"
+          link: "web-tengine"
+        - title: "MonkeyKing"
+          link: "monkeyking"
+        - title: "Ali-dignose"
+          link: "ali-dignose"
+        - title: "Inclavare Container"
+          link: "inclavare-container"
+    - title: "社区合作及生态建设"
+      link: "community"
+  - title: "参与贡献"
+    link: "contributing"
+  - title: "常见问题"
+    link: "faq"
+---

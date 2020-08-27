@@ -1,0 +1,31 @@
+{{ $document := .document }}
+{{ $currentDir := .currentDir }}
+{{ $baseDir := path.Base $currentDir }}
+
+<ul class="leaf-section">
+	{{ range .sidebar }}
+		{{ if isset . "link" }}
+			<li class="item">
+				<div class="link{{if eq $baseDir .link }} -current{{end}}">
+					<a
+						title="{{ .title }}"
+						href="{{ relLangURL (path.Join $document .link) }}"
+					>{{ .title }}</a>
+				</div>
+			</li>
+		{{ end }}
+		{{ if isset . "sub" }}
+			<li class="item">
+				<div class="link">
+					<svg class="icon arrow" aria-hidden="true">
+						<use xlink:href="#icon-arrow"></use>
+					</svg>
+					<a
+						title="{{ .title }}"
+					>{{ .title }}</a>
+				</div>
+				{{ partial "toc/toc_leaf_document.html" (dict "sidebar" .sub "document" $document "currentDir" $currentDir) }}
+			</li>
+		{{ end }}
+	{{ end }}
+</ul>

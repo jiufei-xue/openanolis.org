@@ -1,0 +1,12 @@
+{{ if isset .Params "sig" }}
+	<div class="ss-card">
+		<h2 class="card-title">
+			{{ i18n "aside_sig" }}
+		</h2>
+		<div class="ss-aside-project">
+			{{ range .Params.sig }}
+				<a class="link" href="{{ .link }}">{{ .name }}</a>
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
