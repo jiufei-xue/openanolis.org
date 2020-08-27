@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "chmod a+x ./scripts/install-dependency.sh && ./scripts/build-site.sh && hugo server"
+  command = "sudo ./scripts/install-dependency.sh && sudo ./scripts/build-site.sh && sudo hugo server"
   
 [build.environment]
   HUGO_VERSION = "0.55.5"
