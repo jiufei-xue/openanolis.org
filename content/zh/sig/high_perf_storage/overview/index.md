@@ -1,5 +1,5 @@
 ---
-title: Title高性能存储技术SIG
+title: 高性能存储技术SIG
 aliases: "/resources_co-location_sig/docs/Home"
 ---
 
@@ -14,8 +14,13 @@ aliases: "/resources_co-location_sig/docs/Home"
 # 成员列表
 
 窅默 [@josephhz ](https://yuque.antfin-inc.com/josephhz) 
+
 费曼 [@wangxiaoguang ](https://yuque.antfin-inc.com/wangxiaoguang) 
+
 玖一 [@jiufei-xue ](https://yuque.antfin-inc.com/jiufei-xue) 
+
 飞绪 [@lostjeffle ](https://yuque.antfin-inc.com/lostjeffle) 
+
 影浩 [@HowHsu ](https://yuque.antfin-inc.com/HowHsu) 
+
 鸿枫 [@TWT233 ](https://yuque.antfin-inc.com/TWT233)
