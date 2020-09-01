@@ -1,19 +1,15 @@
 ---
 title: "浅谈机密计算-发表在Inclavare Containers开源之际"
-author: "xxx"
+author: "乾越"
 description: "浅谈机密计算-发表在Inclavare Containers开源之际"
 categories: "Inclavare-containers"
 tags: ["机密计算","Inclavare Containers"]
-date: 2020-07-09T15:00:00+08:00
+date: 2020-08-11T15:00:00+08:00
 cover: "/机密计算.png"
 ---
 
 > Inclavare Containers
 > Inclavare Containers是面向云原生场景的机密计算容器技术栈。它结合了机密计算的特点，为开源社区提供面向云原生场景的机密计算容器技术和安全架构。通过与容器技术结合的方式，Inclavare Containers能够大幅降低机密计算的开发和使用成本。同时，Inclavare Containers基于处理器硬件辅助Enclave技术，提供对多种Enclave形态的支持。
-
-
-
-![image](https://intranetproxy.alipay.com/skylark/lark/0/2020/jpeg/301940/1597993311491-74dc939a-ec4b-4d16-8b4f-32340698b8a2.jpeg)
 
 ## 什么是 Inclavare Containers?
 

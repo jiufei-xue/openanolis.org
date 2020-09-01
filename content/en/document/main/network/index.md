@@ -1,6 +1,6 @@
 ---
 title: "4. 网络配置"
-aliases: "/sofa-tracer/docs/network"
+aliases: "/aliyun -tracer/docs/network"
 ---
 
 ## 4.1网络配置工具介绍

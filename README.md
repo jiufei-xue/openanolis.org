@@ -1,6 +1,6 @@
-# openAnolis
+# OpenAnolis
 
-Source for the openAnolis website <https://www.openanolis.org>.
+Source for the OpenAnolis website <OpenAnolis.org>.
 
 ## Editing and building
 
@@ -34,4 +34,4 @@ make serve
 
 Edit markdown files, you will see the pages changing in real time.
 
-Read the [wiki](https://github.com/sofastack/sofastack.tech/wiki) to see how to contribute to the SOFAStack website.
+Read the [wiki](https://github.com/OpenAnolis/OpenAnolis.org/wiki) to see how to contribute to the OpenAnolis website.

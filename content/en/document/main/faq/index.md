@@ -1,6 +1,6 @@
 ---
 title: "8 FAQ"
-aliases: "/sofa-tracer/docs/faq"
+aliases: "/aliyun -tracer/docs/faq"
 ---
 
 **Q:Alibaba Cloud Linux 2是否支持32位应用程序和库？**

@@ -4,7 +4,7 @@ description: "Alibaba Dragonwell 是一款开源，免费的, 生产就绪型Ope
 github: "https://github.com/alibaba/dragonwell8"
 weight: 1
 level: "main"
-icon: "/img/icons/sofaboot.png"
+icon: "/img/icons/Aliyun.png"
 sidebar:
   - title: 'Diagnose-tools 介绍'  	
     link: 'overview'

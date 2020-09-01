@@ -4,7 +4,7 @@ description: "Diagnose-tools 是一个系统诊断利器"
 github: "https://github.com/alibaba/diagnose-tools"
 weight: 2
 level: "main"
-icon: "/img/icons/sofaboot.png"
+icon: "/img/icons/Aliyun.png"
 sidebar:
   - title: 'Diagnose-tools 介绍'  	
     link: 'overview'

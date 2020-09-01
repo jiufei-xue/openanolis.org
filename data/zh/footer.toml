@@ -3,26 +3,23 @@
 [[links]]
 	category = "资源"
 	link_arr = [
-		["Github", 'https://github.com/openanolis'],
-		["Gitee", 'https://gitee.com/openanolis/'],
+		["Github", 'https://github.com/OpenAnolis'],
+		["Gitee", 'https://gitee.com/OpenAnolis/'],
 	]
 
-[[links]]
-	category = "社交媒体"
-	link_arr = [
-		["知乎专栏", 'https://zhuanlan.zhihu.com/sofastack'],
-		["新浪微博", 'https://weibo.com/sofastack'],
-		["Twitter", "https://twitter.com/sofastack_io"]
-	]
+#[[links]]
+#	category = "社交媒体"
+#	link_arr = [
+#		["知乎专栏", 'https://zhuanlan.zhihu.com/OpenAnolis'],
+#		["新浪微博", 'https://weibo.com/OpenAnolis'],
+#		["Twitter", "https://twitter.com/OpenAnolis"]
+#	]
 
 [[links]]
 	category = "参与进来"
 	link_arr = [
-		["反馈", 'https://github.com/sofastack/sofastack.tech/issues/new'],
 		["社区","/community/main/"],
-		["Wiki","https://github.com/sofastack/sofastack.tech/wiki"],
-		["Email","mailto:sofa@alipay.cloud.com"],
-		["加入我们","/hr/"]
+		["Email","mailto:contact@OpenAnolis.org"],
 	]
 
 [[links]]
@@ -36,7 +33,7 @@
 # qrcode
 [[qrcode]]
 	img = "img/qrcode/wechat.jpg"
-	description = "openAnolis微信公众号"
+	description = "OpenAnolis微信公众号"
 
 # [[qrcode]]
 # 	 img = "img/qrcode/cloud_dingtalk.png"

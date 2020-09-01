@@ -1,0 +1,7 @@
+---
+label: Max
+hide_body: true
+fields: []
+pages:
+- content/zh/documents/_index.md
+- content/zh/service-mesh-end-user-survey-report/test.md

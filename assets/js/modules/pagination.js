@@ -69,10 +69,6 @@ export default function() {
     return
   }
 
-  /**
-   * example: 
-   * '/tags/sofa/page/1/ -> '/tags/sofa'
-   * */
   const pathArr = location.pathname.split('/').filter(str => str !== "")
   const pageIndex = pathArr.indexOf('page')
   const basePathArr = pathArr.slice(0, pageIndex === -1 ? undefined : pageIndex)

@@ -17,6 +17,7 @@
         }
     }
     .container {
+       width: 450px;
         overflow: hidden;
         @include mobile {
             margin-top:16px;
@@ -49,12 +50,12 @@
       .summary {
         margin: 12px 0;
         font-size: 14px;
-        color: $text-color;
+        color: #444;
         // 多行截断
-        display: -webkit-box;
-        overflow: hidden;
-        -webkit-line-clamp: 2;
-        -webkit-box-orient: vertical;
+        // display: -webkit-box;
+        // overflow: hidden;
+        // -webkit-line-clamp: 2;
+        // -webkit-box-orient: vertical;
       }
     
       .tags {

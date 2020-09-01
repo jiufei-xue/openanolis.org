@@ -17,21 +17,19 @@ title: "IRC及邮件列表"
 | [#anolis-cloud-native](https://webchat.freenode.net/#anolis-cloud-native) | 云原生系统SIG讨论频道。                 |
 |                                                              |                                         |
 
-###  
-
 ### 邮件列表
 
 | 邮件名称             | 邮件地址                                                     | 描述                                                 |
 | -------------------- | ------------------------------------------------------------ | ---------------------------------------------------- |
-| community            | [community@openanolis.org](mailto:community@openanolis.org)  | openAnolis社区公共邮件列表，用于日常讨论和支持。     |
-| Inclavare-Containers | [inclavare-containers@openanolis.org](mailto:inclavare@openanolis.org) | openAnolis社区 Inclavare Containers项目及SIG讨论列表 |
-| Dragonwell           | [dragonwell@openanolis.org](mailto:dragonwell@openanolis.org) | openAnolis社区 dragonwell项目邮件讨论列表            |
-| Diagnose-tools       | [diagnose-tools@openanolis.org](mailto:diagnose-tools@openanolis.org) | openAnolis社区 Diagnose-tools项目邮件列表。          |
-| Cloud-kernel         | [cloud-kernel@openanolis.org](mailto:cloud-kernel@openanolis.org) | openAnolis社区 cloud-kernel项目邮件列表              |
-| Cloud-Native         | [cloud-native@openanolis.org](mailto:cloud-native@openanolis.org) | openAnolis社区云原生系统SIG讨论列表                  |
-| QA                   | [qa@openanolis.org](mailto:qa@openanolis.org)                | openAnolis社区质量保证邮件列表                       |
-| TC                   | [tc@openanolis.org](mailto:tc@openanolis.org)                | openAnolis社区技术委员会邮件列表                     |
-| Dev                  | [dev@openanolis.org](mailto:dev@openanolis.org)              | openAnolis社区开发讨论邮件列表                       |
+| community            | [community@OpenAnolis.org](mailto:community@OpenAnolis.org)  | OpenAnolis社区公共邮件列表，用于日常讨论和支持。     |
+| Inclavare-Containers | [inclavare-containers@OpenAnolis.org](mailto:inclavare@OpenAnolis.org) | OpenAnolis社区 Inclavare Containers项目及SIG讨论列表 |
+| Dragonwell           | [dragonwell@OpenAnolis.org](mailto:dragonwell@OpenAnolis.org) | OpenAnolis社区 dragonwell项目邮件讨论列表            |
+| Diagnose-tools       | [diagnose-tools@OpenAnolis.org](mailto:diagnose-tools@OpenAnolis.org) | OpenAnolis社区 Diagnose-tools项目邮件列表。          |
+| Cloud-kernel         | [cloud-kernel@OpenAnolis.org](mailto:cloud-kernel@OpenAnolis.org) | OpenAnolis社区 cloud-kernel项目邮件列表              |
+| Cloud-Native         | [cloud-native@OpenAnolis.org](mailto:cloud-native@OpenAnolis.org) | OpenAnolis社区云原生系统SIG讨论列表                  |
+| QA                   | [qa@OpenAnolis.org](mailto:qa@OpenAnolis.org)                | OpenAnolis社区质量保证邮件列表                       |
+| TC                   | [tc@OpenAnolis.org](mailto:tc@OpenAnolis.org)                | OpenAnolis社区技术委员会邮件列表                     |
+| Dev                  | [dev@OpenAnolis.org](mailto:dev@OpenAnolis.org)              | OpenAnolis社区开发讨论邮件列表                       |
 
 
 

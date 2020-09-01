@@ -1,6 +1,6 @@
 ---
 title: "Cloud Linux OS"
-aliases: "/sofa-acts/docs/Cloud-Linux-Os"
+aliases: "/aliyun -acts/docs/Cloud-Linux-Os"
 ---
 
 ## Sgx-device-plugin

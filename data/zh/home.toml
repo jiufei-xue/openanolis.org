@@ -1,49 +1,49 @@
 [slogan_1]
-	title = "Alibaba Cloud Linux社区"
-	description = "Alibaba Cloud Linux社区是一个开放的Linux操作系统发行版平台，将通过开放的社区形式与全球的开发者共同构建一个开放、多元和架构包容的软件生态体系。同时，也是一个创新的平台，鼓励任何人在该平台上提出想法、开拓新思路、实践新方案。"
-	quick_start_text = "快速开始"
-	quick_start_link = "/guides/sofastack-quick-start"
-	github_link = "https://github.com/dougong"
+	title = "OpenAnolis社区发布专场"
+	description = "OpenAnolis社区发布专场"
+	quick_start_text = "点击观看"
+	quick_start_link = ""
+	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	button_name = "点击链接"
 
 [slogan_2]
-	title = "Alibaba Cloud Linux社区"
-	description = "Alibaba Cloud Linux社区是一个开放的Linux操作系统发行版平台，将通过开放的社区形式与全球的开发者共同构建一个开放、多元和架构包容的软件生态体系。同时，也是一个创新的平台，鼓励任何人在该平台上提出想法、开拓新思路、实践新方案。"
-	quick_start_text = "快速开始"
-	quick_start_link = "/guides/sofastack-quick-start"
-	github_link = "https://github.com/dougong"
+	title = "Alibaba Cloud Linux"
+	description = "Alibaba Cloud Linux 是一个开源的Linux发行版，专门为云计算的应用场景而设计和优化，经历阿里云大规模部署及阿里巴巴电商业务极限压力的锤炼，是一款稳定、高效、安全、可靠的免费操作系统。"
+	quick_start_text = "了解更多"
+	quick_start_link = "/guides/"
+	button_name = "下载"
+	github_link = "/downloads"
 
 [slogan_3]
-	title = "Alibaba Cloud Linux社区"
-	description = "Alibaba Cloud Linux社区是一个开放的Linux操作系统发行版平台，将通过开放的社区形式与全球的开发者共同构建一个开放、多元和架构包容的软件生态体系。同时，也是一个创新的平台，鼓励任何人在该平台上提出想法、开拓新思路、实践新方案。"
+	title = "Alibaba Cloud Linux"
+	description = "Alibaba Cloud Linux"
 	quick_start_text = "快速开始"
-	quick_start_link = "/guides/sofastack-quick-start"
-	github_link = "https://github.com/dougong"
+	quick_start_link = "/guides/"
+	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	button_name = "Github"
 
 [slogan_4]
 	title = "Alibaba Cloud Linux社区"
-	description = "Alibaba Cloud Linux社区是一个开放的Linux操作系统发行版平台，将通过开放的社区形式与全球的开发者共同构建一个开放、多元和架构包容的软件生态体系。同时，也是一个创新的平台，鼓励任何人在该平台上提出想法、开拓新思路、实践新方案。"
+	description = "Alibaba Cloud Linux 是一个开源的Linux发行版，专门为云计算的应用场景而设计和优化，经历阿里云大规模部署及阿里巴巴电商业务极限压力的锤炼，是一款稳定、高效、安全、可靠的免费操作系统。"
 	quick_start_text = "快速开始"
-	quick_start_link = "/guides/sofastack-quick-start"
-	github_link = "https://github.com/dougong"
+	quick_start_link = "/guides/"
+	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	button_name = "Github"
 
 [[feature]]
 	title = "为云而生"
-	description = "面向云的开源操作系统"
+	description = "面向云的开源操作系统社区"
 	img = "img/home/buildforcloud.svg"
 [[feature]]
 	title = "云原生系统"
-	description = "系统软件全栈开源生态"
+	description = "全栈开源生态"
 	img = "img/home/system.svg"
 [[feature]]
 	title = "开放、创新"
 	description = "开放的创新平台"
 	img = "img/home/open.svg"
 
-[[charpter_description]]
-	title = "微服务体系"
-	description = "SOFAStack 包含了构建微服务体系的众多组件，包括研发框架、RPC 框架，服务注册中心，分布式链路追踪，Metrics监控度量、分布式事务框架、服务治理平台等，结合社区优秀的开源产品，可以快速搭建一套完善的微服务体系。"
-	img = "img/home/cd-microservice-system.png"
-	img_width = "530px"
+
 
 [cloud_native]
 	title = "云原生架构"
@@ -73,15 +73,23 @@
 	title = "合作伙伴"
 
 [about]
-	title = "关于openAnolis"
-	description = "openAnolis是一个开源操作系统社区及系统软件创新平台，致力于通过开放的社区合作，推动软硬件及应用生态繁荣发展，共同构建云计算系统技术底座"
+	title = "关于OpenAnolis"
+	description = "OpenAnolis是一个开源操作系统社区及系统软件创新平台，致力于通过开放的社区合作，推动软硬件及应用生态繁荣发展，共同构建云计算系统技术底座"
 
 # index projects slogan
-[dragonwell]
-	title = "Alibaba Dragonwell 是一款开源，免费的, 生产就绪型Open JDK 发行版"
-[inclavare]
-	title = "Inclavare Containers是面向云原生场景的机密计算容器技术栈"
-[diagnose]
-	title = "Diagnose-tools 是一个系统诊断利器"
-[kernel]
-	title = "Cloud Kernel 是一款基于社区LTS 版本内核定制优化版的内核产品"
+[pro_1]
+	title = "Alibaba Dragonwell"
+	github_link = "https://github.com/alibaba/dragonwell8"
+	description = "Alibaba Dragonwell 是一款开源，免费的, 生产就绪型Open JDK 发行版"
+[pro_2]
+	title = "Inclavare Containers"
+	github_link = "https://github.com/alibaba/inclavare-containers"
+	description = "Inclavare Containers是面向云原生场景的机密计算开源OCI容器运行时，把机密计算带进云原生生态，降低机密计算的开发和使用成本"
+[pro_3]
+	title = "Diagnose-tools"
+	github_link = "https://github.com/alibaba/diagnose-tools"
+	description = "Diagnose-tools 是一个系统诊断利器"
+[pro_4]
+	title = "Cloud Kernel"
+	github_link = "https://github.com/openanolis/cloud-kernel"
+	description = "Cloud Kernel 针对云计算场景定制和深度优化的开源LTS 版本内核，提高云上应用性能和用户的使用体验"

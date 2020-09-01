@@ -1,7 +1,7 @@
 
 ---
 title: "基础环境配置"
-aliases: "/sofa-tracer/docs/basic"
+aliases: "/aliyun -tracer/docs/basic"
 ---
 
 

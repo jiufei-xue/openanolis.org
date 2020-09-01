@@ -84,7 +84,7 @@
 	<h2 class="anolis-title">{{ $data.hot_blogs.title }}</h2>
 	<main>
 		{{ $page1 := .Site.GetPage "section" "blog" }}
-		{{ range first 1 $page1.Paginator.Pages }}
+		{{ range first 2 $page1.Paginator.Pages }}
 		{{ partial "post/index_blog" . }}
 		{{ end }}
 	</main>

@@ -1,7 +1,7 @@
 +++
 draft= false
 title = "Activities"
-description = "SOFAStack community events"
+description = "OpenAnolis community events"
 +++
 
 ## Kube looks awesome. Who is it for?

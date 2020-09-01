@@ -54,16 +54,16 @@ identifier = "activities"
 name = "活动"
 url = "/activities/"
 weight = 7
-[[languages.zh.menu.main]]
-identifier = "cicd"
-name = "CICD"
-url = "http://testone.aliyun.test"
-weight = 8
+# [[languages.zh.menu.main]]
+# identifier = "cicd"
+# name = "CICD"
+# url = "/cicd/"
+# weight = 8
 [[languages.zh.menu.main]]
 identifier = "downloads"
 name = "下载"
 url = "/downloads/"
-weight = 9
+weight = 8
 
 
 
@@ -128,16 +128,16 @@ identifier = "activities"
 name = "Activities"
 url = "/en/activities/"
 weight = 7
-[[menu.main]]
-identifier = "cicd"
-name = "CICD"
-url = "http://testone.aliyun.test"
-weight = 8
+# [[menu.main]]
+# identifier = "cicd"
+# name = "CICD"
+# url = "/en/cicd/"
+#weight = 8
 [[menu.main]]
 identifier = "downloads"
 name = "Downloads"
 url = "/en/downloads/"
-weight = 9
+weight = 8
 
 [[menu.main]]
 parent = "projects"
@@ -148,7 +148,7 @@ weight = 1
 [[menu.main]]
 parent = "projects"
 identifier = "diagnose-tools"
-name = "Diagnose-tool"
+name = "Diagnose-tools"
 url = "/en/projects/diagnose-tools/"
 weight = 2
 [[menu.main]]
@@ -173,8 +173,8 @@ notAlternative = true
 home = ["HTML", "RSS", "Algolia"]
 [params]
 description = "Alibaba cloud linux is a ..."
-favicon = "https://gw.alipayobjects.com/os/q/cms/images/jqu9346l/4ba95631-2489-4885-881f-bc7f8d787d5e_w64_h61.png"
-github = "https://github.com/openanolis/openanolis.org"
+favicon = "/img/icons/head.png"
+github = "https://github.com/OpenAnolis/OpenAnolis.org"
 [params.algolia]
 params = ["categories", "tags", "series"]
 vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]

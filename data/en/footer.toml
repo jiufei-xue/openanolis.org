@@ -3,27 +3,23 @@
 [[links]]
 	category = "Resources"
 	link_arr = [
-		["Github", 'https://github.com/sofastack'],
-		["Gitee", 'https://gitee.com/sofastack/'],
-		["Samples", 'https://github.com/sofastack-guides'],
+		["Github", 'https://github.com/OpenAnolis'],
+		["Gitee", 'https://gitee.com/OpenAnolis/'],
 	]
 
-[[links]]
-	category = "Social Media"
-	link_arr = [
-		["Zhihu", 'https://zhuanlan.zhihu.com/sofastack'],
-		["Weibo", 'https://weibo.com/sofastack'],
-		["Twitter", "https://twitter.com/sofastack_io"]
-	]
+#[[links]]
+#	category = "Social Media"
+#	link_arr = [
+#		["Zhihu", 'https://zhuanlan.zhihu.com/OpenAnolis'],
+#		["Weibo", 'https://weibo.com/OpenAnolis'],
+#		["Twitter", "https://twitter.com/OpenAnolis"]
+#	]
 
 [[links]]
 	category = "Get Involved"
 	link_arr = [
-		["Feedback", 'https://github.com/sofastack/sofastack.tech/issues'],
 		["Community","/en/community/main/"],
-		["Wiki","https://github.com/sofastack/sofastack.tech/wiki"],
-		["Email","mailto:sofa@alipay.cloud.com"],
-		["Join Us","/en/hr"]
+		["Email","mailto:contact@OpenAnolis.org"],
 	]
 
 [[links]]
@@ -37,5 +33,5 @@
 # qrcode
 [[qrcode]]
 	img = "img/qrcode/wechat.jpg"
-	description = "openAnolis Wechat Official Account"
+	description = "OpenAnolis Wechat Official Account"
 

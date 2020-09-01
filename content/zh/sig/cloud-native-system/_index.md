@@ -1,5 +1,5 @@
 ---
-title: "云原生系统计算SIG"
+title: "云原生系统SIG"
 description: "云原生系统SIG致力于围绕Kata Containers 和 Cloud Hypervisor等开源项目，构建新一代安全容器沙箱，打造高性能，强隔离的云原生系统底座。"
 level: "main"
 weight: 14
@@ -10,7 +10,7 @@ sidebar:
   - title: "相关项目"
     sub:
     - title: "Kata Containers"
-      Sub:
+      sub:
       - title: "Kata Containers 项目介绍"
         link: "kata_containers"
       - title: "Kata Containers 2.0 蓝图"

@@ -1,34 +1,38 @@
 [slogan_1]
-	title = "Alibaba Cloud Linux Community"
-	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
-	quick_start_text = "Quick Start"
-	quick_start_link = "/en/guides/sofastack-quick-start"
-	github_link = "https://github.com/sofastack"
+	title = "OpenAnolis Announcement"
+	description = "on APSARA Conference 2020"
+	quick_start_text = "Click to Watch"
+	quick_start_link = "/en/guides/"
+	#github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	#button_name = "Test"
 
 [slogan_2]
-	title = "Alibaba Cloud Linux Community"
-	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
-	quick_start_text = "Quick Start"
-	quick_start_link = "/en/guides/sofastack-quick-start"
-	github_link = "https://github.com/sofastack"
+	title = "Alibaba Cloud Linux"
+	description = "Alibaba Cloud Linux is an open source Linux distribution, which is designed and optimized for cloud computing. It is a stable, hig performance, secure and reliable free operating system due to the large scale deployment in Alibaba cloud and the extreme pressure workload of Alibaba's e-commerce."
+	quick_start_text = "Learn More"
+	quick_start_link = "/en/guides/"
+	github_link = "/en/downloads"
+	button_name = "Download"
 
 [slogan_3]
-	title = "Alibaba Cloud Linux Community"
-	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	title = ""
+	description = ""
 	quick_start_text = "Quick Start"
-	quick_start_link = "/en/guides/sofastack-quick-start"
-	github_link = "https://github.com/sofastack"
+	quick_start_link = "/en/guides/"
+	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	button_name = "Github"
 
 [slogan_4]
 	title = "Alibaba Cloud Linux Community"
-	description = "Alibaba Cloud Linux Community is an open Linux operating system distribution platform. It will build an open, pluralistic and architecture inclusive software ecosystem with global developers through the open community. At the same time, it is also a platform for innovation, which encourages anyone to put forward ideas, develop new ideas and practice new schemes on this platform."
+	description = "Alibaba Cloud Linux is an open source Linux distribution, which is designed and optimized for cloud computing. It is a stable, hig performance, secure and reliable free operating system due to the large scale deployment in Alibaba cloud and the extreme pressure workload of Alibaba's e-commerce."
 	quick_start_text = "Quick Start"
-	quick_start_link = "/en/guides/sofastack-quick-start"
-	github_link = "https://github.com/sofastack"
+	quick_start_link = "/en/guides/"
+	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
+	button_name = "Github"
 
 [[feature]]
 	title = "Build for Cloud"
-	description = "Linux Distribution for Cloud"
+	description = "Linux Distribution Open Source Community for Cloud"
 	img = "img/home/buildforcloud.svg"
 [[feature]]
 	title = "Cloud Native System"
@@ -40,11 +44,6 @@
 	img = "img/home/open.svg"
 
 
-[[charpter_description]]
-	title = "Microservice System"
-	description = "SOFAStack contains multiple components for building microservice system, including development framework, RPC framework, service registry, distributed link tracking, metrics monitoring, distributed transaction framework, service governance platform and other components. In combination with outstanding open-source products in community, you can quickly build a complete microservice system."
-	img = "img/home/cd-microservice-system.png"
-	img_width = "530px"
 
 
 [cloud_native]
@@ -54,17 +53,17 @@
 
 
 [subscription]
-	title = "Interested in receiving the latest SOFA news?"
+	title = "Interested in receiving the latest aliyun  news?"
 	button = "Subscribe"
 
 [more]
 	title = "More"
 
 [hot_projects]
-	title = "Recommending Projects"
+	title = "Recommend Projects"
 
 [hot_communities]
-	title = "Community Dynamics"
+	title = "Community News"
 
 [hot_blogs] 
 	title = "Selected Blogs"
@@ -76,15 +75,23 @@
 	title = "Partners"
 
 [about]
-	title = "About openAnolis"
-	description = "test"
+	title = "About OpenAnolis"
+	description = "OpenAnolis is an open source operating system community and innovation platform. It aims to promote the prosperity and development of software and hardware and application ecosystem through open community cooperation, and build the system technology of cloud computing jointly"
 
 # index projects slogan
-[dragonwell]
-	title = "Alibaba Dragonwell, as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba"
-[inclavare]
-	title = "Inclavare Containers is a set of tools for running trusted applications in containers with the hardware-assisted enclave technology"
-[diagnose]
-	title = "Diagnose-tools - a systematic diagnostic tool"
-[kernel]
-	title = "Cloud Kernel - an open-source Linux kernel originated by Alibaba Operating System Team"
+[pro_1]
+	title = "Alibaba Dragonwell"
+	github_link = "https://github.com/alibaba/dragonwell8"
+	description = "Alibaba Dragonwell, as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba"
+[pro_2]
+	title = "Inclavare Containers"
+	github_link = "https://github.com/alibaba/inclavare-containers"
+	description = "Inclavare Containers is an open source OCI container implementation of confidential computing, it brings confidential computing into the cloud native ecosystem and reduces the development and use costs of confidential computing"
+[pro_3]
+	title = "Diagnose-tools"
+	github_link = "https://github.com/alibaba/diagnose-tools"
+	description = "Diagnose-tools - a systematic diagnostic tool"
+[pro_4]
+	title = "Cloud Kernel"
+	github_link = "https://github.com/openanolis/cloud-kernel"
+	description = "Cloud Kernel - is based on LTS version Linux kernel and customized and optimized deeply for cloud computing scenarios to improve application performance and user experience on the cloud"

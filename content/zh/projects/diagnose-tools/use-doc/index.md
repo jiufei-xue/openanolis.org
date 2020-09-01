@@ -1,6 +1,6 @@
 ---
 title: "使用文档"
-aliases: "/sofa-boot/docs/QuickStart"
+aliases: "/aliyun -boot/docs/QuickStart"
 ---
 
 

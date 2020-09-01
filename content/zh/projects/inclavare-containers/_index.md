@@ -4,7 +4,7 @@ description: "Inclavare Containers是面向云原生场景的机密计算容器�
 github: "https://github.com/alibaba/inclavare-containers"
 weight: 1
 level: "main"
-icon: "/img/icons/sofaboot.png"
+icon: "/img/icons/Aliyun.png"
 sidebar:
   - title: 'Diagnose-tools 介绍'  	
     link: 'overview'

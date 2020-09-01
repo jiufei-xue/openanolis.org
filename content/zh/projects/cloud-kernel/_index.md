@@ -4,7 +4,7 @@ description: "Cloud Kernel 是一款基于社区LTS 版本内核定制优化版�
 github: "https://github.com/alibaba/cloud-kernel"
 weight: 3
 level: "main"
-icon: "/img/icons/sofaboot.png"
+icon: "/img/icons/Aliyun.png"
 sidebar:
   - title: 'Diagnose-tools 介绍'  	
     link: 'overview'

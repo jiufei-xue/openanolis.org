@@ -1,6 +1,6 @@
 ---
 title: "5. 软件管理"
-aliases: "/sofa-tracer/docs/software"
+aliases: "/aliyun -tracer/docs/software"
 ---
 
 Alibaba Cloud Linux 2 采用RPM（Red Hat Package Manager）包管理系统，使用命令rpm、yum能够方便的进行查询，安装，升级及删除等软件管理操作。

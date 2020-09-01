@@ -1,6 +1,6 @@
 ---
 title: "3.系统服务管"
-aliases: "/sofa-tracer/docs/system"
+aliases: "/aliyun -tracer/docs/system"
 ---
 
 ## 3.1 系统服务介绍
