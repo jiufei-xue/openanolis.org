@@ -11,7 +11,7 @@ aliases: "/aliyun -tracer/docs/system"
 
 Alibaba Cloud Linux使用 systemd 作为系统服务管理器。
 
-[systemd](https://freedesktop.org/wiki/Software/systemd/) 是 Linux 系统基础构建组件。systemd 提供一个系统和服务管理器，运行为 1 号进程，并负责启动系统其他程序。systemd 主要功能包括但不限于：支持任务并行化；利用 socket 和 dbus 接口激活服务；支持按需启动守护进程；利用 Linux cgroup 接口跟踪进程；维护挂载点和自动挂载点；基于事务依赖关系进行精密的服务控制。systemd 兼容 Sysv 和 LSB 启动脚本，能够很好地替代 sysvinit。systemd 还有诸多其他有用特性：日志记录守护程序；控制基本系统配置的实用程序，例如主机名，日期，区域设置；维护已登录用户和正在运行的容器和虚拟机的列表；管理系统帐户，运行时目录和设置；管理简单网络配置；网络时间同步；日志转发；名称解析等。
+[systemd](https://freedesktop.org/wiki/Software/systemd/) 是 Linux 系统的基础构建组件。systemd 提供一个系统和服务管理器，运行为 1 号进程，并负责启动系统其他程序。systemd 主要功能包括但不限于：支持任务并行化；利用 socket 和 dbus 接口激活服务；支持按需启动守护进程；利用 Linux cgroup 接口跟踪进程；维护挂载点和自动挂载点；基于事务依赖关系进行精密的服务控制。systemd 兼容 Sysv 和 LSB 启动脚本，能够很好地替代 sysvinit。systemd 还有诸多其他有用特性：日志记录守护程序；控制基本系统配置的实用程序，例如主机名，日期，区域设置；维护已登录用户和正在运行的容器和虚拟机的列表；管理系统帐户，运行时目录和设置；管理简单网络配置；网络时间同步；日志转发；名称解析等。
 
 ## 3.3 管理系统服务
 
