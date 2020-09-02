@@ -1,6 +1,6 @@
 ---
 date : "2020-08-31T11:56:55+01:00"
-author: "乾越"
+author: "Yuntong Jin"
 title : "Hello OpenAnolis!"
 draft : false
 cover: "/cover.jpg"
@@ -9,13 +9,13 @@ description: "Say hello to OpenAnolis!"
 
 ![蜥蜴logo.png](https://intranetproxy.alipay.com/skylark/lark/0/2020/png/301940/1598841900125-f4436749-12a1-45f4-9454-575735723902.png)
 
-**OpenAnolis™ ** is an open source operating system community and innovation platform. It aims to promote the prosperity and development of software and hardware and application ecosystem through open community cooperation, and build the system technology of cloud computing jointly.
+ **OpenAnolis™ ** is an open source operating system community and innovation platform. It aims to promote the prosperity and development of software and hardware and application ecosystem through open community cooperation, and build the system technology of cloud computing jointly.
 
 ## Links
 
 Home Page: [https://www.openanolis.org](https://www.openanolis.org)
 
-Source Code: [https://github.com/openanolis](https://github.com/openanolis)
+Github: [https://github.com/openanolis](https://github.com/openanolis)
 
 ## Projects
 
@@ -52,8 +52,6 @@ More SIG in: [en/sig]([http://openanolis.org/en/sig/])
 - DingTalk Group
 
   <img src="https://intranetproxy.alipay.com/skylark/lark/0/2020/png/301940/1598845115427-be6db184-5868-4256-9cbd-1d28378c1087.png" alt="Alibaba Cloud Linux钉钉群.png" style="zoom:50%;" />
-
-  - DingTalk Group: If you have used any Alibaba Cloud Linux related components in a production environment, please let us know, and we will invite you to join this group for faster communication and more efficient use of problem support online.
 
   
 
