@@ -91,6 +91,12 @@ identifier = "dragonwell"
 name = "Dragonwell"
 url = "http://dragonwell-jdk.io/"
 weight = 4
+[[languages.zh.menu.main]]
+parent = "projects"
+identifier = "occlum"
+name = "Occlum"
+url = "http://occlum.io/"
+weight = 5
 
 
 [[menu.main]]
@@ -163,6 +169,12 @@ identifier = "dragonwell"
 name = "Dragonwell"
 url = "http://dragonwell-jdk.io/"
 weight = 4
+[[menu.main]]
+parent = "projects"
+identifier = "occlum"
+name = "Occlum"
+url = "http://occlum.io/"
+weight = 5
 
 [outputFormats.Algolia]
 baseName = "algolia"
