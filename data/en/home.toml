@@ -1,8 +1,8 @@
 [slogan_1]
-	title = "OpenAnolis Announcement"
-	description = "on APSARA Conference 2020"
-	quick_start_text = "Click to Watch"
-	quick_start_link = "/en/guides/"
+	#title = "OpenAnolis Announcement"
+	#description = "on APSARA Conference 2020"
+	#quick_start_text = "Click to Watch"
+	#quick_start_link = "/en/guides/"
 	#github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
 	#button_name = "Test"
 
@@ -17,10 +17,10 @@
 [slogan_3]
 	title = ""
 	description = ""
-	quick_start_text = "Quick Start"
+	quick_start_text = ""
 	quick_start_link = "/en/guides/"
-	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
-	button_name = "Github"
+	github_link = ""
+	button_name = ""
 
 [slogan_4]
 	title = "Alibaba Cloud Linux Community"

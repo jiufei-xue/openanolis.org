@@ -1,10 +1,10 @@
 [slogan_1]
-	title = "OpenAnolis社区发布专场"
-	description = "OpenAnolis社区发布专场"
-	quick_start_text = "点击观看"
+	title = ""
+	description = ""
+	quick_start_text = ""
 	quick_start_link = ""
 	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
-	button_name = "点击链接"
+	button_name = ""
 
 [slogan_2]
 	title = "Alibaba Cloud Linux"
@@ -15,12 +15,12 @@
 	github_link = "/downloads"
 
 [slogan_3]
-	title = "Alibaba Cloud Linux"
-	description = "Alibaba Cloud Linux"
-	quick_start_text = "快速开始"
+	title = ""
+	description = ""
+	quick_start_text = ""
 	quick_start_link = "/guides/"
-	github_link = "https://github.com/OpenAnolis/OpenAnolis.org"
-	button_name = "Github"
+	github_link = ""
+	button_name = ""
 
 [slogan_4]
 	title = "Alibaba Cloud Linux社区"
