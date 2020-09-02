@@ -10,6 +10,7 @@ You can use the local environment or docker to build and serve the site. We reco
 
 Before you begin, you should install the follow components:
 
+
 - [node v8.9.4+](https://nodejs.org/en/)
 - [npm 6.10.0+](https://www.npmjs.com/get-npm)
 - [hugo v0.55.5 extended](https://github.com/gohugoio/hugo/releases).
