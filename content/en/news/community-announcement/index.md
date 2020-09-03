@@ -4,7 +4,7 @@ date: 2020-08-30T15:00:00+08:00
 title: "OpenAnolis Publish Annoucement on APSARA Conference 2020"	
 tags: ["APSARA", "Cloud"]
 cover: "/apsara-conference.png"
-descripton: "APSARA Conference 2020"
+descripton: "OpenAnolis Publish Annoucement on APSARA Conference 2020"
 ---
 
 ## OpenAnolis Publish Annoucement on APSARA Conference 2020 

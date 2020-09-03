@@ -24,7 +24,7 @@ title: "IRC and Maillist"
 | community            | [community@OpenAnolis.org](mailto:community@OpenAnolis.org)  | OpenAnolis community mailist，for general discussion and supporting. |
 | Inclavare-Containers | [inclavare-containers@OpenAnolis.org](mailto:inclavare@OpenAnolis.org) | OpenAnolis mailist for Inclavare Containers project and SIG  |
 | Dragonwell           | [dragonwell@OpenAnolis.org](mailto:dragonwell@OpenAnolis.org) | OpenAnolis maillist of dragonwell project discussion         |
-|                      | occlum@openanolis.org                                        | OpenAnolis maillist of Occlum project discussion             |
+| Occlum               | occlum@openanolis.org                                        | OpenAnolis maillist of Occlum project discussion             |
 | Diagnose-tools       | [diagnose-tools@OpenAnolis.org](mailto:diagnose-tools@OpenAnolis.org) | OpenAnolis maillist for Diagnose-tools project.              |
 | Cloud-kernel         | [cloud-kernel@OpenAnolis.org](mailto:cloud-kernel@OpenAnolis.org) | OpenAnolis maillist for cloud-kernel project                 |
 | Cloud-Native         | [cloud-native@OpenAnolis.org](mailto:cloud-native@OpenAnolis.org) | OpenAnolis mailist for Cloud Native System SIG               |

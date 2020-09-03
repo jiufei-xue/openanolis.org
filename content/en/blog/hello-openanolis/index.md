@@ -9,7 +9,7 @@ description: "Say hello to OpenAnolis!"
 
 ![蜥蜴logo.png](https://intranetproxy.alipay.com/skylark/lark/0/2020/png/301940/1598841900125-f4436749-12a1-45f4-9454-575735723902.png)
 
- **OpenAnolis™ ** is an open source operating system community and innovation platform. It aims to promote the prosperity and development of software and hardware and application ecosystem through open community cooperation, and build the system technology of cloud computing jointly.
+**OpenAnolis™ ** is an open source operating system community and innovation platform. It aims to promote the prosperity and development of software and hardware and application ecosystem through open community cooperation, and build the system technology of cloud computing jointly.
 
 ## Links
 
@@ -22,13 +22,14 @@ Github: [https://github.com/openanolis](https://github.com/openanolis)
 - [Cloud-Kernel](https://github.com/openanolis/cloud-kernel) is based on LTS version Linux kernel and customized and optimized deeply for cloud computing scenarios to improve application performance and user experience on the cloud.
 - [Inclavare Containers](https://github.com/alibaba/inclavare-containers) is an open source OCI container implementation of confidential computing, it brings confidential computing into the cloud native ecosystem and reduces the development and use costs of confidential computing
 - [Alibaba Dragonwell](http://dragonwell-jdk.io/), as a downstream version of OpenJDK, is the in-house OpenJDK implementation at Alibaba.
-- [Diagnose-tools](https://github.com/alibaba/diagnose-tools) - a systematic diagnostic tool.
+- [Occlum](https://occlum.io) - A library OS empowering everyone to run every application in secure enclaves.
+- [Diagnose-tools](http://openanolis.org/en/projects/diagnose-tools/overview/) - a systematic diagnostic tool.
 
 More projects in: [github/openanolis](https://github.com/openanolis)
 
 
 
-## SIG
+## [SIG](http://openanolis.org/en/sig/)
 
 - [High-performance Storage SIG](http://openanolis.org/en/sig/high-perf-storage/overview) is a development framework open sourced by Ant Financial which is based on Spring Boot, provides capabilities such as Readiness Check, class isolation, log space isolation and asynchronous initialization of bean.
 - [Tracing & Debugging SIG](http://openanolis.org/en/sig/tracing/overview) Tracking and diagnosis technology is an indispensable topic in the operating system，there are new kernel diagnosis cases based on ebpf technology and BCC tools, and also SLI / tracing framework of internal kernel subsystem. Moreover, Diagnosis tools, which has attracted much attention, has made great achievements in Alibaba's internal 'double 11' campaign. All of these will be presented in the Tracing & Debugging SIG.
@@ -41,9 +42,9 @@ More SIG in: [en/sig]([http://openanolis.org/en/sig/])
 
 
 
-## Community
+## [Community](http://openanolis.org/en/community/main/overview/)
 
-- [Github](https://github.com/openanolis/community)
+- [Github](https://github.com/openanolis/)
 
 - WeChat Official Account：
 
