@@ -13,7 +13,8 @@ aliases: "/core_services_sig/docs/Home"
 
 # 通信方式
 
-邮件列表：inclavare-containers[@openanolis.org ](https://yuque.antfin-inc.com/openanolis.org) 
+邮件列表：[inclavare-containers@OpenAnolis.org](mailto:inclavare@OpenAnolis.org)
+
 IRC：#anolis-inclavare
 
 # 成员列表
@@ -24,7 +25,7 @@ IRC：#anolis-inclavare
 
 - 江博
 
-- 乾越
+- [jiazhang0]( https://github.com/jiazhang0)
 
 - 熙羽
 

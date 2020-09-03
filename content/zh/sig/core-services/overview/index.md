@@ -11,7 +11,7 @@ OS核心服务兴趣小组基于阿里云丰富的业务场景，对核心的用
 
 # 成员列表
 
-夷则 
+casparant
 
 锄豆 [ ](https://yuque.antfin.com/wangxiaoguang)
 
