@@ -151,7 +151,7 @@ IORING_REGISTER_FILES_UPDATE 的异步替代方案。
 
 #### 项目仓库
 
-https://github.com/alibaba/cloud-kernel/
+https://github.com/OpenAnolis/cloud-kernel/
 
 ### liburing
 
@@ -259,7 +259,7 @@ exit:
 
 #### 项目仓库
 
-https://github.com/alinux-build/liburing
+https://github.com/OpenAnolis/liburing
 
 
 
