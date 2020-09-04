@@ -1,5 +1,5 @@
 ---
-title: "Alibaba Cloud Linux 2 LTS 正式发布"
+title: "Alibaba Cloud Linux 2 LTS 介绍"
 author: "晓贾"
 description: "Alibaba Cloud Linux 2 LTS 正式发布，提供更高性能和更多保障！"
 categories: "Alibaba Cloud Linux"

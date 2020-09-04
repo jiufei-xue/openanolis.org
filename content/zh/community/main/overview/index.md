@@ -34,3 +34,13 @@ title: "IRC及邮件列表"
 
 
 
+### 如何创建SIG（特别兴趣小组）
+
+发送邮件到[community@OpenAnolis.org](mailto:community@OpenAnolis.org) 申请创建，申请内容包括：
+
+1. 小组名称
+2. 小组介绍
+3. 目标
+4. 成员及维护人
+5. 相关项目及要进行的工作
+
