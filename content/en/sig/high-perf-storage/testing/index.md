@@ -1,11 +1,7 @@
 ---
-title: "testing"
+title: "io_uring 测试框架"
 aliases: "/alinux2/docs/Community"
 ---
-
-## io_uring 测试框架
-
-
 
 ### io_uring-perf-test
 
