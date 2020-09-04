@@ -88,7 +88,7 @@
 [pro_3]
 	title = "Occlum"
 	github_link = "https://occlum.io"
-	description = "Occlum是一款蚂蚁集团开源的TEE OS，可以大幅降低SGX应用的开发门槛"
+	description = "Occlum是一款开源的TEE OS，可以大幅降低SGX应用的开发门槛"
 [pro_4]
 	title = "Cloud Kernel"
 	github_link = "https://github.com/openanolis/cloud-kernel"
