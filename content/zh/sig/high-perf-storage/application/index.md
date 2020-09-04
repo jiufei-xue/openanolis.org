@@ -198,7 +198,7 @@ http {
 
 
 
-**短连接**
+**短连接QPS对比**
 ![image](https://intranetproxy.alipay.com/skylark/lark/0/2020/png/67250/1596611176527-895679ea-eec8-485f-972e-1000be8be6c8.png)
 
 
