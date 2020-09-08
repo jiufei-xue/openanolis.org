@@ -15,7 +15,7 @@ Cloud-kernel，[cloud-kernel@OpenAnolis.org](mailto:cloud-kernel@OpenAnolis.org)
 
 # 如何加入我们
 
-加入方式，请参见：https://alibaba.github.io/cloud-kernel/zh/CONTRIBUTING.html
+加入方式，请参见：https://openanolis.org/community/main/contributing/
 
 # 联系
 
